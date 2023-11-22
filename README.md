@@ -1,4 +1,4 @@
-# 44pin Male 2.5" HDD to 44pin 1,8" HDD female converter for Iriver H1XX/H3XX project
+# 44 pin 2.5" IDE to 44pin 1,8" IDE converter for Iriver H1XX/H3XX project
 This PCB, designed using KiCad, was design to be used with an SD-Card to IDE converter.
 These converters come with 44pin IDE connectors used on 2,5" Harddisks.
 These old MP3 players (and others) used 1,8" Harddisk, which have a smaller pin spacing (1.27mm instead of 2,0mm)
